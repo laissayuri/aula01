@@ -13,3 +13,29 @@ h1, h2{
     text-align: center;
     font-weight: 700; /*negrito*/
 }
+
+p{
+    margin-left: 20px;
+}
+
+button{
+    border: solid indigo;
+    ion: center;background-color: rgb(149, 0, 255);
+    border-radius: 10%;
+    padding: 10px;
+    color: white;
+    margin: 10px;
+}
+
+footer{
+    padding:20px;
+}
+
+a{
+    text-decoration: none;
+    padding: 20px;
+}
+
+nav{
+    padding: 20px;
+}
